@@ -1,0 +1,4384 @@
+{
+  "company": "AAPL",
+  "quarter": "2024 Q1",
+  "statement":"Today, Apple is reporting revenue of $119.6 billion for the December quarter, up 2% from a year ago despite having one less week in the quarter. EPS was $2.18, up 16% from a year ago and an all-time record.",
+  "semantic_class": "Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q1",
+  "statement": "We … continue to see strong double-digit growth in many emerging markets … as well as December quarter records in India, Indonesia, Saudi Arabia, and Chile.",
+  "semantic_class": "Market Expansion / Geographic Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q1",
+  "statement": "In Services, we set an all-time revenue record with paid subscriptions growing double digits year-over-year.",
+  "semantic_class": "Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q1",
+  "statement": "Pad … revenue for the December quarter was $7 billion, down 25% year-over-year … due to a difficult compare … and one less week of sales.",
+  "semantic_class": "Decline",
+  "tone": "Negative",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q1",
+  "statement": "Starting tomorrow, Apple Vision Pro … will be available in Apple stores for customers in the U.S. … Apple Vision Pro … is years ahead of anything else.",
+  "semantic_class":  "Product Innovation",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q1",
+  "statement": "We ended the quarter with $173 billion in cash and marketable securities. … our goal of becoming net cash-neutral over time remains unchanged.",
+  "semantic_class": "Growth",
+  "tone": "Neutral",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q2",
+  "statement": "Today, Apple is reporting revenue of $90.8 billion and an EPS record of $1.53 for the March quarter",
+  "semantic_class": "Financial Performance / Profitability",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q2",
+  "statement": "RWe set revenue records in more than a dozen countries and regions... including Latin America, the Middle East, Canada, India, Spain and Turkey.",
+  "semantic_class": "Market Expansion / Geographic Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q2",
+  "statement": "In services, we set an all-time revenue record, up 14% over the past year.",
+  "semantic_class": "Growth / Business Segment Strength",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q2",
+  "statement": "iPhone revenue was $46B, down 10% year-over-year, but grew in Mainland China.",
+  "semantic_class": "Mixed Performance (Product Segment Divergence)",
+  "tone": "Neutral",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q2",
+  "statement": "iPad revenue was $5.6 billion, down 17% year-over-year due to difficult comparisons.",
+  "semantic_class": "Decline / Product Weakness",
+  "tone": "Negative",
+  "label": "UP"
+}
+
+
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q2",
+  "statement": "We expect June quarter revenue to grow low-single-digits year-over-year despite FX headwinds.",
+  "semantic_class": "Forward Guidance / Outlook",
+  "tone": " Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q3",
+  "statement": "Today, Apple is reporting a new June quarter revenue record of $85.8 billion, up 5% year-over-year, with double-digit EPS growth to a record $1.40.",
+  "semantic_class": "Financial Performance / Profitability",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q3",
+  "statement": "We set an all-time revenue record in Services, which grew 14% year-over-year.",
+  "semantic_class": "Business Unit Strength / Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q3",
+  "statement": "Vision Pro now has more than 2,500 native spatial apps and 1.5 million compatible apps.",
+  "semantic_class": "Product Adoption / Innovation Momentum",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q3",
+  "statement": "iPhone revenue was $39.3 billion, down 1% year-over-year but grew on a constant currency basis.",
+  "semantic_class": "Mixed Performance (Product Segment Divergence)",
+  "tone": "Neutral",
+  "label": "DOWN"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q3",
+  "statement": "iPad revenue grew 24% year-over-year driven by the launch of the new iPad Pro and iPad Air.",
+  "semantic_class": "Product Growth / Segment Strength",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q3",
+  "statement": "Paid subscriptions climbed to a new all-time high, now well over 1 billion subscriptions.",
+  "semantic_class": "Recurring Revenue / Subscription Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q4",
+  "statement": "Apple reported September-quarter revenue of $94.9 billion, up 6% year-over-year, with iPhone and Services both hitting record levels",
+  "semantic_class": "Financial Performance / Revenue Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q4",
+  "statement": "iPhone revenue reached $46.2 billion, growing in every geographic segment and marking a new September quarter record.",
+  "semantic_class": "Market Expansion / Geographic Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q4",
+  "statement": "Apple Intelligence is now rolling out, beginning with US English — with more features, ChatGPT integration, and regional support coming in December and additional languages in 2025.",
+  "semantic_class": "Product Strategy / AI Deployment",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q4",
+  "statement": "We believe Apple Intelligence represents the start of a new era for iPhone, powered by A18 and A18 Pro chips supporting advanced AI workloads.",
+  "semantic_class": "Strategic Outlook / Innovation",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q4",
+  "statement": "Mac revenue rose 2% year-over-year as we introduced the M4 chip family, the most advanced neural engine we’ve ever built.",
+  "semantic_class": "Product Performance / Hardware Innovation",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2024 Q4",
+  "statement": "Wearables, Home and Accessories revenue was $9 billion, down 3% year-over-year.",
+  "semantic_class": "Product Segment Decline",
+  "tone": "Negative",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q1",
+  "statement": "Apple is reporting revenue of $124.3 billion for the December quarter, up 4% year-over-year, and an all-time record.",
+  "semantic_class": "Financial Performance / Revenue Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q1",
+  "statement": "EPS also set an all-time record of $2.40, up 10% year-over-year.",
+  "semantic_class": "Profitability / Earnings Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q1",
+  "statement": "In services, we achieved an all-time revenue record of $26.3 billion, up 14% year-over-year.",
+  "semantic_class": "Business Segment Growth (Services)",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q1",
+  "statement": "Markets where Apple Intelligence was available saw stronger iPhone 16 performance than those where it was not.",
+  "semantic_class": "Product Strategy / Market Differentiation",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q1",
+  "statement": "Wearables, Home and Accessories revenue was $11.7 billion, down 2% year-over-year.",
+  "semantic_class": "Product Segment Decline",
+  "tone": "Negative",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q1",
+  "statement": "We expect March quarter revenue to grow low- to mid-single digits year-over-year despite FX headwinds.",
+  "semantic_class": "Forward Guidance / Outlook",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q2",
+  "statement": "Apple reported $95.4 billion in revenue for the March quarter, up 5% year-over-year and at the high end of prior guidance.",
+  "semantic_class": "Financial Performance / Revenue Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q2",
+  "statement": "Diluted EPS was $1.65, up 8% year-over-year and a March-quarter record.",
+  "semantic_class": "Profitability / Earnings Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q2",
+  "statement": "Services achieved an all-time revenue record of $26.6 billion, growing 12% year-over-year across all geographic segments.",
+  "semantic_class": "Business Segment Growth (Services)",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q2",
+  "statement": "iPhone revenue was $46.8 billion, up 2% year-over-year, with iPhone 16 upgraders growing double-digits",
+  "semantic_class": "Product Performance (iPhone)",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q2",
+  "statement": "iPad revenue was $6.4 billion, up 15% year-over-year, marking another quarter of double-digit growth.",
+  "semantic_class": "Product Segment Growth (iPad)",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q2",
+  "statement": "Wearables, Home and Accessories revenue was $7.5 billion, down 5% year-over-year.",
+  "semantic_class": "Product Segment Decline (Wearables)",
+  "tone": "Negative",
+  "label": "DOWN"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q3",
+  "statement": "Apple reported June-quarter revenue of $94 billion, up 10% year-over-year and a new Q3 record.",
+  "semantic_class": "Financial Performance / Revenue Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q3",
+  "statement": "iPhone revenue grew 13% year-over-year with upgraders hitting a June-quarter record.",
+  "semantic_class": "Product Segment Growth (iPhone)",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q3",
+  "statement": "Mac revenue was $8 billion, up 15% year-over-year with double-digit growth across major markets.",
+  "semantic_class": "Product Segment Growth (Mac)",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q3",
+  "statement": "We saw growth across every geographic region, including renewed acceleration in Greater China.",
+  "semantic_class": "Geographic Expansion / Market Performance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q3",
+  "statement": "Capital investment in AI and infrastructure is increasing significantly, including first-party data centers powered by Apple Silicon.",
+  "semantic_class": "Strategic Investment / Innovation",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q3",
+  "statement": "We estimate approximately $800 million in tariff-related costs this quarter and expect approximately $1.1 billion next quarter.",
+  "semantic_class": "Cost / Risk / Expense Impact (Tariffs)",
+  "tone": "Negative",
+  "label": "UP"
+}
+
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q4",
+  "statement": "EPS was $1.85, setting a September quarter record",
+  "semantic_class": "Earnings Performance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q4",
+  "statement": "We achieved an all-time revenue record of $416 billion for the fiscal year.",
+  "semantic_class": "Company-Wide Revenue Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q4",
+  "statement": "iPhone revenue was $49 billion, up 6% year-over-year, despite supply constraints on several iPhone 16 and 17 models.",
+  "semantic_class": "Product Segment Growth (iPhone)",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q4",
+  "statement": "We set all-time revenue records in both emerging and developed markets, including an all-time record in India.",
+  "semantic_class": "Geographic Expansion / Market Performance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q4",
+  "statement": "We have now surpassed $100 billion in annual Services revenue for the first time.",
+  "semantic_class": "Services Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "AAPL",
+  "quarter": "2025 Q4",
+  "statement": "Tariff-related costs were approximately $1.1 billion, and we expect ~$1.4 billion next quarter.",
+  "semantic_class": "Cost / Risk / Expense Impact (Tariffs)",
+  "tone": "Negative",
+  "label": "UP"
+}
+
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q1",
+  "statement": "JPMorgan reported net income of $13.4 billion, EPS of $4.44, and revenue of $42.5 billion with 21% ROTCE, reflecting continued operating strength despite higher regulatory and deposit costs.",
+  "semantic_class": "Financial Performance / Profitability",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q1",
+  "statement": "Firmwide investment banking fees rose 18% year-over-year, with strong underwriting activity and continued momentum in asset and wealth management inflows.",
+  "semantic_class": "Revenue Driver / Segment Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q1",
+  "statement": "Consumers remain financially healthy with spending stable, revolving card balances increasing, and deposit balances normalizing from post-pandemic peaks.",
+  "semantic_class": "Consumer Behavior / Credit & Spending Trends",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q1",
+  "statement": "Markets revenue declined 5% year-over-year, driven by softer fixed income activity, while equities remained flat.",
+  "semantic_class": "Revenue Decline / Market Activity Impact",
+  "tone": "Negative",
+  "label": "DOWN"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q1",
+  "statement": "The bank ended the quarter with a CET1 ratio of 15%, comfortably above regulatory minimums, providing capacity for future capital deployment.",
+  "semantic_class": "Capital Strength / Liquidity & Risk Buffer",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q1",
+  "statement": "Management reaffirmed a cautious macro view, citing geopolitical uncertainty, regulatory headwinds, and interest rate unpredictability.",
+  "semantic_class": "Forward Guidance / Risk Commentary",
+  "tone": "Negative",
+  "label": "DOWN"
+}
+
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q2",
+  "statement": "The firm reported net income of $18.1 billion, EPS of $6.12 on revenue of $51 billion, with an ROTCE of 28%.",
+  "semantic_class": "Financial Performance / Profitability",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q2",
+  "statement": "Investment banking fees were up 50% year-over-year and 17% quarter-on-quarter.",
+  "semantic_class": "Revenue Driver / Segment Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q2",
+  "statement": "Card outstandings were up 12% driven by strong account acquisition and normalization of revolving behavior.",
+  "semantic_class": "Consumer Credit / Spending Trends",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q2",
+  "statement": "Our preliminary SCB is 3.3%, and the final requirement could be higher.",
+  "semantic_class": "Regulatory & Capital Requirements",
+  "tone": "Negative",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q2",
+  "statement": "It is too early to call the end of the over-earning narrative — deposit margins remain above historical norms.",
+  "semantic_class": "Forward Guidance / Risk Commentary",
+  "tone": "Negative",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q2",
+  "statement": "Underlying performance remains strong, and the fundamentals of the franchise remain exceptionally healthy.",
+  "semantic_class": "Business Strength / Competitive Positioning",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q3",
+  "statement": "Revenue grew 6% year-over-year, driven by higher investment banking fees, markets revenue, and asset management income.",
+  "semantic_class": "Financial Performance / Revenue Growth Drivers",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q3",
+  "statement": "NII ex-markets increased 1% year-over-year due to higher card revolving balances and wholesale deposits, partially offset by deposit margin compression.",
+  "semantic_class": "Net Interest Income / Margin Dynamics",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q3",
+  "statement": "Card outstandings rose 11% driven by strong account acquisition and normalization of revolving behavior.",
+  "semantic_class": "Consumer Credit & Spending Trends",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q3",
+  "statement": "Equity trading revenue increased 27%, reflecting supportive U.S. markets and activity growth in Asia.",
+  "semantic_class": "Markets & Trading Performance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q3",
+  "statement": "Credit charge-offs increased year-over-year primarily in card, but remain within expected normalization ranges.",
+  "semantic_class": "Credit Risk & Loan Performance",
+  "tone": "Negative",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q3",
+  "statement": "Deposits are stabilizing, and we expect balances to remain relatively flat through year-end.",
+  "semantic_class": "Deposit Trends & Liquidity Positioning",
+  "tone": "Neutral",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q4",
+  "statement": "The firm reported net income of $14 billion, EPS of $4.81 on revenue of $43.7 billion, with an ROTCE of 21%.",
+  "semantic_class": "Financial Performance & Profitability",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q4",
+  "statement": "Excluding significant items, full-year ROTCE was 20%.",
+  "semantic_class": "Profitability & Return Metrics",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q4",
+  "statement": "Markets revenue was up 21% year over year.",
+  "semantic_class": "Markets & Trading Performance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q4",
+  "statement": "Investment banking fees were up 49% year-over-year.",
+  "semantic_class": "Investment Banking & Deal Activity",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q4",
+  "statement": "Firmwide deposits have stabilized, and we expect growth to assert itself in the second half of 2025.",
+  "semantic_class": "Deposit Trends & Liquidity Outlook",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2024 Q4",
+  "statement": "We expect 2025 NII ex-markets to be approximately $90 billion, with NII trough occurring mid-year followed by growth.",
+  "semantic_class": "Net Interest Income Guidance & Outlook",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q1",
+  "statement": "Excluding significant items, full-year revenue reached $173 billion with ROTCE of 20%.",
+  "semantic_class": "Financial Performance & Profitability",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q1",
+  "statement": "Net interest income ex-markets was down 2% due to lower rates and deposit margin compression.",
+  "semantic_class": "Interest Income & Margin Pressure",
+  "tone": "Negative",
+  "label": "DOWN"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q1",
+  "statement": "Firm-wide deposits have stabilized, and we see a visible growth trend emerging in the second half of 2025.",
+  "semantic_class": "Deposit Stability & Forward Outlook",
+  "tone": "Neutral",
+  "label": "DOWN"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q1",
+  "statement": "Unless we find compelling opportunities, more capital return via buybacks is likely.",
+  "semantic_class": "Capital Allocation Strategy",
+  "tone": "Neutral",
+  "label": "DOWN"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q1",
+  "statement": "We expect 2025 NII ex-markets to be approximately $90 billion, with the NII trough occurring mid-year and growth resuming afterward.",
+  "semantic_class": "Guidance & Forward Outlook",
+  "tone": "Neutral",
+  "label": "DOWN"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q1",
+  "statement": "We remain prepared for a wide range of outcomes given uncertainty in regulation, rates, and macro conditions.",
+  "semantic_class": "Risk & Uncertainty Commentary",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q2",
+  "statement": "The firm reported net income of $15 billion, EPS of $5.24 on revenue of $45.7 billion, with an ROTCE of 21%.",
+  "semantic_class": "Financial Performance & Profitability",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q2",
+  "statement": "Revenue was down 10% year-over-year.",
+  "semantic_class": "Revenue Trend / Decline",
+  "tone": "Negative",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q2",
+  "statement": "NII ex-Markets was down 1%, driven by lower rates and deposit margin compression.",
+  "semantic_class": "Interest Income & Margin Pressure",
+  "tone": "Negative",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q2",
+  "statement": "Investment banking fees were up 7% year-over-year and the pipeline remains notably more upbeat.",
+  "semantic_class": "Investment Banking Activity & Pipeline",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q2",
+  "statement": "Card outstandings were up 9% driven by strong new card acquisition and higher revolving balances.",
+  "semantic_class": "Consumer Lending Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q2",
+  "statement": "Average deposits were flat sequentially.",
+  "semantic_class": "Deposit Stability",
+  "tone": "Neutral",
+  "label": "UP"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q3",
+  "statement": "the Firm reported net income of $14.4 billion and EPS of $5.07, with an ROTCE of 20%. Revenue of $47.1 billion was up 9% year-on-year, predominantly driven by higher Markets revenue, as well as higher fees across Asset Management, Investment Banking and Payments.",
+  "semantic_class": "Financial Performance & Revenue Drivers",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q3",
+  "statement": "Expenses of $24.3 billion were up 8% year-on-year… And credit costs were $3.4 billion, with net charge-offs of $2.6 billion and a net reserve build of $810 million. And wholesale charge-offs were slightly elevated as a result of a couple of instances of apparent fraud in certain secured lending facilities.",
+  "semantic_class": "Costs, Credit Risk & Charge-offs",
+  "tone": "Negative",
+  "label": "DOWN"
+}
+
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q3",
+  "statement": "we ended the quarter with a CET1 ratio of 14.8%, down 30 basis points versus the prior quarter.",
+  "semantic_class": "Capital & Regulatory Metrics",
+  "tone": "Negative",
+  "label": "DOWN"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q3",
+  "statement": "Consumers and small businesses remain resilient… our credit metrics, including early-stage delinquencies, remain stable and slightly better than expected.",
+  "semantic_class": "Credit Quality & Customer Behavior",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q3",
+  "statement": "We retained our number one position in retail deposit share… marking our fifth consecutive year of leading the industry… this has already been the best year ever for new account acquisitions for our Sapphire portfolio.",
+  "semantic_class": "Market Position & Competitive Advantage",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JPM",
+  "quarter": "2025 Q3",
+  "statement": "the CIB reported net income of $6.9 billion. Revenue of $19.9 billion was up 17% year-on-year… Equities was up 33% from robust client activity…",
+  "semantic_class": "Business Segment Performance",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q1",
+  "statement": "This is a transition year where we are focused on execution and making critical choices that will set the business up for long-term success.",
+  "semantic_class": "Strategic Outlook / Transition Year",
+  "tone": "Neutral",
+  "label": "UP"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q1",
+  "statement": "We delivered 10% revenue growth and 27% non-GAAP EPS growth — better than expected.",
+  "semantic_class": "Financial Performance / Profitability",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q1",
+  "statement": "We see substantial need to retool how we operate, how we go to market, and how we partner with merchants and consumers.",
+  "semantic_class": "Operational Restructuring / Strategic Change",
+  "tone": "Neutral",
+  "label": "UP"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q1",
+  "statement": "We are making surgical changes — some have immediate impact while others will take longer to scale.",
+  "semantic_class": "Restructuring / Efficiency Initiatives",
+  "tone": "Neutral",
+  "label": "UP"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q1",
+  "statement": "Fastlane users are converting at nearly 80%, with double-digit lifts in guest checkout conversion for merchants.",
+  "semantic_class": "Product Performance / Conversion Optimization",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q1",
+  "statement": "We plan to make Fastlane generally available in the U.S. in the second half of the year.",
+  "semantic_class": "Product Roadmap / Growth Catalyst",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q2",
+  "statement": "PayPal delivered a strong second quarter and first half with encouraging operating and financial results.",
+  "semantic_class": "Financial Performance / Overall Results",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q2",
+  "statement": "Total payment volume rose 11% to $417 billion and revenue grew 9% on a currency-neutral basis.",
+  "semantic_class": "Payment Volume & Revenue Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q2",
+  "statement": "Transaction margin dollars grew 8%, representing our best performance on that metric since 2021.",
+  "semantic_class": "Profitability / Margin Expansion",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q2",
+  "statement": "Non-GAAP EPS increased 36% year-over-year, driven by profitability improvements across branded, Braintree, and Venmo.",
+  "semantic_class": "Earnings Growth / Profitability",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q2",
+  "statement": "Braintree is now meaningfully contributing to transaction margin dollar growth for the first time in over two years.",
+  "semantic_class": "Business Unit Turnaround / Margin Contribution",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q2",
+  "statement": "Branded checkout continues to grow profitably, with early traction from enhanced mobile experiences and vaulting improvements.",
+  "semantic_class": "Core Product Performance / Profitable Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q3",
+  "statement": "We made good progress on our continued transformation while delivering strong operating and financial results.",
+  "semantic_class": "Strategic Transformation / Financial Performance",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q3",
+  "statement": "Total payment volume grew 9% to $423 billion and revenue grew 6% on a currency-neutral basis.",
+  "semantic_class": "Payment Volume & Revenue Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q3",
+  "statement": "Transaction margin dollars grew 8%, and were up 6% excluding interest on customer balances.",
+  "semantic_class": "Profitability / Margin Quality",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q3",
+  "statement": "Non-GAAP EPS increased 22% year-over-year.",
+  "semantic_class": "Earnings Growth / Profitability",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q3",
+  "statement": "We are raising full-year guidance for transaction margin dollars and non-GAAP earnings per share.",
+  "semantic_class": "Forward Guidance / Outlook Upgrade",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q3",
+  "statement": "Fastlane now has over 1,000 merchants using it, and 170 million U.S. customers can now be auto-recognized for seamless first-time checkout.",
+  "semantic_class": "Product Adoption / Scale Effects",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q4",
+  "statement": "PayPal had a successful 2024, delivering strong operating and financial results as we executed on our transformation agenda.",
+  "semantic_class": "Strategic Transformation / Financial Performance",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q4",
+  "statement": "Branded checkout growth accelerated exiting the year as our new checkout innovations scaled to customers.",
+  "semantic_class": "Core Product Performance / Growth Re-acceleration",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q4",
+  "statement": "Braintree has meaningfully contributed to transaction margin dollar growth for three consecutive quarters as we shifted to a price-to-value strategy.",
+  "semantic_class": "Business Unit Turnaround / Margin Contribution",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q4",
+  "statement": "Venmo monetization is making strong progress with 20%+ growth in debit card and Pay with Venmo monthly active accounts.",
+  "semantic_class": "Monetization / Ecosystem Expansion",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q4",
+  "statement": "Total payment volume grew 10% to nearly $1.7 trillion, revenue grew 7%, and non-GAAP EPS increased 21%.",
+  "semantic_class": "TPV & Financial Performance",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2024 Q4",
+  "statement": "We generated $6.8 billion in free cash flow and repurchased $6 billion in shares.",
+  "semantic_class": "Capital Allocation / Shareholder Returns",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2025 Q2",
+  "statement": "We are transforming PayPal from a payments company into a dynamic commerce platform.",
+  "semantic_class": "Strategic Transformation / Platform Shift",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2025 Q2",
+  "statement": "Fintech is still early — the next five years may change shopping more than the past two decades.",
+  "semantic_class": "Industry Outlook / Strategic Positioning",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2025 Q2",
+  "statement": "We delivered our sixth consecutive quarter of profitable growth — non-GAAP EPS grew 18%.",
+  "semantic_class": "Earnings Growth / Profitability Momentum",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2025 Q2",
+  "statement": "Transaction margin dollars grew 8%, with contribution across branded checkout, Venmo, PSP and value-added services.",
+  "semantic_class": "Profitability / Diversified Growth Drivers",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2025 Q2",
+  "statement": "Branded experiences TPV grew 8% — and we expect continued acceleration.",
+  "semantic_class": "Core Product Performance / TPV Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2025 Q2",
+  "statement": "Buy Now Pay Later grew more than 20%, and Pay with Venmo TPV increased over 45%.",
+  "semantic_class": "Growth in New Products / Consumer Behavior Shift",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2025 Q3",
+  "statement": "PayPal is a fundamentally stronger company today than two years ago… and now built for faster, more profitable growth.",
+  "semantic_class": "Strategic Narrative / Transformation Outcome",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2025 Q3",
+  "statement": "Transaction margin dollars (ex-interest) are growing 6–7% vs negative two years ago.",
+  "semantic_class": "Profitability / Margin Quality Improvement",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2025 Q3",
+  "statement": "Branded experiences TPV grew 8%, U.S. reached 10%; BNPL volume +20%, Venmo revenue +20%, PSP returned to growth.",
+  "semantic_class": "Multi-Engine Growth / Segment Performance",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2025 Q3",
+  "statement": "Venmo is becoming a revenue engine, not just P2P — debit +43%, Pay with Venmo MAUs +24%, ARPA up mid-teens.",
+  "semantic_class": "Monetization / Ecosystem Expansion (Venmo)",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2025 Q3",
+  "statement": "BNPL volume will reach ~$40B in 2025, with global expansion and upstream merchant placement driving the next phase.",
+  "semantic_class": "Growth in New Products / BNPL Expansion",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "PYPL",
+  "quarter": "2025 Q3",
+  "statement": "Omnichannel adoption is accelerating — online + in-store + agentic checkout are being unified.",
+  "semantic_class": "Product & Platform Strategy / Omnichannel",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q1",
+  "statement": "Q1 revenue was $7.19 billion, up 19% sequentially, driven by record data center revenue.",
+  "semantic_class": "Financial Performance / Revenue Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q1",
+  "statement": "Generative AI is driving exponential growth in compute requirements and accelerating the transition to NVIDIA accelerated computing.",
+  "semantic_class": "AI Demand / Strategic Narrative",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q1",
+  "statement": "Cloud service providers globally are racing to deploy H100 and Ampere GPUs to meet surging AI training and inference demand.",
+  "semantic_class": "Cloud & Hyperscaler Adoption",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q1",
+  "statement": "Enterprise adoption is accelerating across industries including automotive, finance, healthcare, and telecom.",
+  "semantic_class": "Enterprise Adoption / Industry Expansion",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q1",
+  "statement": "We launched DGX Cloud, enabling enterprises to build and run custom AI models using NVIDIA infrastructure in the cloud.",
+  "semantic_class": "Product & Platform Strategy / AI Infrastructure",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q1",
+  "statement": "NVIDIA AI Foundations will allow customers to build and operate proprietary LLMs trained on their own data.",
+  "semantic_class": "AI Software / Foundation Models & Recurring Revenue",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q2",
+  "statement": "Record Q2 revenue of $13.51 billion, up 88% sequentially and up 101% year over year.",
+  "semantic_class": "Financial Performance / Hyper Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q2",
+  "statement": "Data center revenue reached $10.32 billion, up 141% sequentially and up 171% YoY.",
+  "semantic_class": "Data Center Revenue / AI Growth Engine",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q2",
+  "statement": "Demand was driven primarily by cloud service providers and large consumer internet companies deploying HGX systems for generative AI and LLM workloads.",
+  "semantic_class": "Cloud & Hyperscaler Adoption / AI Infrastructure Demand",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q2",
+  "statement": "Networking revenue almost doubled YoY, led by our end-to-end InfiniBand platform — the gold standard for AI workload scaling.",
+  "semantic_class": "Networking & Systems / Full-Stack Data Center",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q2",
+  "statement": "We expect supply to increase each quarter through next year.",
+  "semantic_class": "Supply Outlook / Capacity Expansion",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q2",
+  "statement": "Given strong global demand, we do not anticipate export restrictions to China having an immediate material impact.",
+  "semantic_class": "Risk Management / Geopolitical Commentary",
+  "tone": "Neutral",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q3",
+  "statement": "Q3 revenue reached $18.1 billion, up 34% sequentially and up over 200% year over year.",
+  "semantic_class": "Financial Performance / Hyper Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q3",
+  "statement": "Data center revenue hit a record $14.5 billion, up 41% sequentially and up 279% year over year.",
+  "semantic_class": "Data Center Revenue / AI Growth Engine",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q3",
+  "statement": "HGX with Hopper and InfiniBand has effectively become the reference architecture for AI supercomputers.",
+  "semantic_class": "AI Infrastructure / Reference Architecture",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q3",
+  "statement": "Inferencing is now a major workload for NVIDIA AI computing.",
+  "semantic_class": "Workload Mix / Inference Shift",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q3",
+  "statement": "Cloud service providers drove roughly half of data center revenue, while consumer internet and enterprise AI adoption accelerated significantly.",
+  "semantic_class": "Cloud & Enterprise Adoption / Market Structure",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2024 Q3",
+  "statement": "We expect to continue increasing supply every quarter through next year.",
+  "semantic_class": "Supply Outlook / Capacity Expansion",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q1",
+  "statement": "Q1 revenue was $26 billion, up 18% sequentially and up 262% year over year — another record quarter.",
+  "semantic_class": "Financial Performance / Record Revenue Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q1",
+  "statement": "Data Center revenue reached $22.6 billion, up 427% year over year, driven by strong demand for the NVIDIA Hopper platform.",
+  "semantic_class": "Data Center Revenue / AI Infrastructure Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q1",
+  "statement": "For every $1 spent on NVIDIA AI infrastructure, cloud providers can earn $5 in GPU hosting revenue over four years.",
+  "semantic_class": "Business Model Economics / Revenue Generation",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q1",
+  "statement": "Leading AI companies including OpenAI, Meta, Tesla, Anthropic, Google DeepMind and many others are building on NVIDIA AI.",
+  "semantic_class": "Ecosystem & Partnerships / Platform Moat",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q1",
+  "statement": "We worked with over 100 customers building AI factories, some reaching up to 100,000 GPUs.",
+  "semantic_class": "AI Factories / Next-Gen Data Centers",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q1",
+  "statement": "Sovereign AI demand is surging — revenue could reach high single-digit billions this year.",
+  "semantic_class": "Sovereign AI / New Vertical Demand",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q2",
+  "statement": "Q2 revenue of $30 billion was up 15% sequentially and up 122% year over year — another record quarter.",
+  "semantic_class": "Financial Performance / Record Revenue Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q2",
+  "statement": "Data Center revenue reached $26.3 billion, up 154% year over year — driven by strong demand for Hopper, GPU computing, and NVIDIA networking.",
+  "semantic_class": "Data Center Revenue / AI Infrastructure Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q2",
+  "statement": "Demand for NVIDIA infrastructure is coming from cloud providers, consumer internet companies, and tens of thousands of enterprises building generative AI applications.",
+  "semantic_class": "Ecosystem & Adoption / Enterprise AI Demand",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q2",
+  "statement": "Over the trailing four quarters, inference drove more than 40% of our data center revenue.",
+  "semantic_class": "Workload Mix / Inference Monetization",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q2",
+  "statement": "Blackwell demand is well above supply and will remain constrained into next year.",
+  "semantic_class": "Product Demand & Supply Constraints",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q2",
+  "statement": "H200 began ramping and Hopper shipments will continue to increase while Blackwell production begins in Q4.",
+  "semantic_class": "Product Roadmap / Platform Transition",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q3",
+  "statement": "Revenue of $35.1 billion was up 17% sequentially and up 94% year on year — another record quarter.",
+  "semantic_class": "Financial Performance / Record Revenue Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q3",
+  "statement": "Data Center revenue reached $30.8 billion, up 112% year-over-year, with H200 becoming the fastest product ramp in our history.",
+  "semantic_class": "Data Center Revenue / AI Infrastructure Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q3",
+  "statement": "Blackwell is now in full production, and demand is staggering — every major partner is racing to deploy it.",
+  "semantic_class": "Product Demand & Next-Gen Platform",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q3",
+  "statement": "We shipped 13,000 Blackwell GPU samples in Q3, including engineering systems to OpenAI.",
+  "semantic_class": "Deployment Milestone / Ecosystem Adoption",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q3",
+  "statement": "The next generation of AI training starts at 100,000 Blackwell GPUs—where the last generation ended.",
+  "semantic_class": "AI Scale / Training Demand Narrative",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q3",
+  "statement": "NVIDIA is now the largest inference platform in the world.",
+  "semantic_class": "Market Positioning / Inference Leadership",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q4",
+  "statement": "Q4 revenue reached $39.3B, up 12% sequentially and 78% year over year — another record quarter.",
+  "semantic_class": "Financial Performance / Record Revenue Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q4",
+  "statement": "Full-year revenue was $130.5B, up 114% from last year.",
+  "semantic_class": "Full-Year Performance / AI Cycle Momentum",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q4",
+  "statement": "We delivered $11B in Blackwell revenue — the fastest product ramp in NVIDIA history.",
+  "semantic_class": "Product Revenue / Blackwell Ramp",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q4",
+  "statement": "Blackwell clusters now commonly start at 100,000 GPUs — shipments of clusters at this scale have already begun.",
+  "semantic_class": "AI Scale / Cluster Size & Compute",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q4",
+  "statement": "Inference demand is accelerating — reasoning AI can require 100x more compute per task compared to traditional one-shot inference.",
+  "semantic_class": "Inference & Reasoning Demand",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "NVDA",
+  "quarter": "2025 Q4",
+  "statement": "Blackwell provides up to 25x higher token throughput and 20x lower inference cost vs Hopper.",
+  "semantic_class": "Product Performance / Cost Efficiency",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q1",
+  "statement": "2024 is a pivotal year as we put our business simplification behind us and focus on transformation and performance.",
+  "semantic_class": "Strategic Outlook / Transformation Year",
+  "tone": "Neutral",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q1",
+  "statement": "We have eliminated approximately 7,000 positions, generating $1.5 billion in annual run-rate savings.",
+  "semantic_class": "Cost Reduction / Restructuring & Efficiency",
+  "tone": "Neutral",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q1",
+  "statement": "The simplification is complete — we now operate with fewer layers, clearer accountability, and faster decision-making.",
+  "semantic_class": "Organizational Simplification / Operating Model",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q1",
+  "statement": "We reported net income of $3.4 billion and an RoTCE of 7.6%.",
+  "semantic_class": "Financial Performance / Profitability Metrics",
+  "tone": "Neutral",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q1",
+  "statement": "Services revenue grew 8%, and this continues to be one of our highest-return businesses.",
+  "semantic_class": "Business Segment Strength / Services Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q1",
+  "statement": "Investment banking revenue increased 35%, driven by strong DCM and ECM issuance.",
+  "semantic_class": "Capital Markets & Investment Banking Recovery",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q2",
+  "statement": "There is no restriction on our ability to pay common dividends or repurchase shares — we will increase the dividend and resume buybacks this quarter.",
+  "semantic_class": "Capital Return / Investor Reassurance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q2",
+  "statement": "Despite the regulatory setback, we delivered another solid quarter — revenue grew 4%, expenses declined 2%, and four of five core businesses had positive operating leverage.",
+  "semantic_class": "Financial Performance / Operating Leverage",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q2",
+  "statement": "We expect $2–$2.5 billion in annual run-rate cost saves from simplification and stranded-cost reduction.",
+  "semantic_class": "Cost Reduction / Structural Efficiency",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q2",
+  "statement": "Services remains our crown jewel, delivering 23.8% ROTCE with growing client onboarding and cross-border payments activity.",
+  "semantic_class": "Business Segment Strength / Services",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q2",
+  "statement": "Markets revenue grew 6%, and equities rose 37% — driven by derivatives strength and the Visa B exchange gain.",
+  "semantic_class": "Markets & Equities Performance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q2",
+  "statement": "Investment banking revenue increased 38%, and advisory and capital markets momentum looks promising for the rest of the year.",
+  "semantic_class": "Investment Banking / Capital Markets Momentum",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q3",
+  "statement": "This quarter contains multiple proof points that we are moving in the right direction — revenue grew across all five businesses and we delivered positive operating leverage.",
+  "semantic_class": "Strategic Progress / Financial Performance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q3",
+  "statement": "We brought expenses down while continuing to invest in the transformation.",
+  "semantic_class": "Cost Discipline / Transformation Investment",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q3",
+  "statement": "We achieved record performance in Services and strong fee momentum — up double digits — reflecting a diversified earnings mix.",
+  "semantic_class": "Business Segment Strength / Services & Fees",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q3",
+  "statement": "Investment banking fees rose 44%, with strong performance in investment-grade issuance and corporate strategic activity.",
+  "semantic_class": "Investment Banking / Capital Markets Cycle",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q3",
+  "statement": "We continue to see stabilization in card delinquencies; the U.S. consumer remains healthy but more selective.",
+  "semantic_class": "Credit Quality / Consumer Health",
+  "tone": "Neutral",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q3",
+  "statement": "Our capital levels remain robust with a CET1 ratio of 13.7%, and we returned $2.1B in capital including buybacks.",
+  "semantic_class": "Capital Strength / Shareholder Returns",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q4",
+  "statement": "For the full year, our net income was up nearly 40% to $12.7 billion.",
+  "semantic_class": "Financial Performance / Net Income Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q4",
+  "statement": "We exceeded our full-year revenue target with revenues up 5% ex-divestitures.",
+  "semantic_class": "Revenue Growth / Guidance Beat",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q4",
+  "statement": "Fee revenue was up 17%, driven by strong performance across banking, services, and wealth.",
+  "semantic_class": "Fee-Based Revenue Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q4",
+  "statement": "Each of our five core businesses generated positive operating leverage for the full year.",
+  "semantic_class": "Operating Leverage / Business Segment Performance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q4",
+  "statement": "We delivered expenses within guidance and improved our efficiency ratio by 340 basis points.",
+  "semantic_class": "Cost Management / Efficiency Improvement",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2024 Q4",
+  "statement": "Our board authorized a $20 billion share repurchase program.",
+  "semantic_class": "Capital Return / Share Buybacks",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q1",
+  "statement": "This morning, we reported net income of $4.1 billion and earnings per share of $1.96 with an RoTCE of 9.1%. Overall, it was a strong quarter, marked by continued momentum in each of our five businesses.",
+  "semantic_class": "Financial Performance / Net Income & Returns",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q1",
+  "statement": "We delivered our third consecutive quarter of positive operating leverage for each of our five lines of business and the fourth consecutive quarter for the firm overall.",
+  "semantic_class": "Operating Leverage / Cost Efficiency",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q1",
+  "statement": "Services recorded its highest first quarter revenue in a decade… Securities Services gained share and grew its Assets Under Custody and Administration to $26 trillion.",
+  "semantic_class": "Business Segment Strength / Services & Securities Services",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q1",
+  "statement": "Markets had a good quarter with revenue up 12%… Equities were up 23%, and Fixed Income overall up 8%.",
+  "semantic_class": "Markets & Trading Performance",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q1",
+  "statement": "Banking was up 12%… Most notably M&A revenue nearly doubled.",
+  "semantic_class": "Investment Banking / M&A Momentum",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q1",
+  "statement": "Turning to Wealth, all three businesses contributed to overall growth of 24%… roughly 11% organic growth in client investment assets.",
+  "semantic_class": "Wealth Management / Revenue & Asset Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q2",
+  "statement": "We reported net income of $4B and EPS of $1.96 with an ROTCE of 8.7%. Revenues were up 8%, and three of our five businesses hit record second-quarter revenue.",
+  "semantic_class": "Financial Performance / Revenue & Earnings",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q2",
+  "statement": "We again had positive operating leverage at each business and at the group level.",
+  "semantic_class": "Operating Leverage / Cost Efficiency",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q2",
+  "statement": "Services continues to show why this high-returning business is our crown jewel — 23% ROTCE this quarter.",
+  "semantic_class": "Business Segment Strength / Services",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q2",
+  "statement": "Markets revenues were up 16% — the best second quarter since 2020.",
+  "semantic_class": "Markets & Trading Performance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q2",
+  "statement": "Banking revenues were up 18%, with strong momentum in M&A, capital markets and financing.",
+  "semantic_class": "Investment Banking / Capital Markets Momentum",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q2",
+  "statement": "Wealth revenues were up 20%, with non-interest revenue up 17% and pretax margin of 29%.",
+  "semantic_class": "Wealth Management / Fee & Margin Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q3",
+  "statement": "Revenues were up 9% and every business had record third quarter revenue and improved returns.",
+  "semantic_class": "Financial Performance / Revenue & Returns",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q3",
+  "statement": "Services had a record quarter, with revenues growing by 7%.",
+  "semantic_class": "Business Segment Strength / Services",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q3",
+  "statement": "Despite low volatility, Markets had a record third quarter.",
+  "semantic_class": "Markets & Trading Performance",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q3",
+  "statement": "We capitalized on this with investment banking fees up 17%, with continued growth across all products.",
+  "semantic_class": "Investment Banking / Fee Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q3",
+  "statement": "Our emphasis on growing investment assets resulted in record Net New Investment Assets of $18.6 billion and Client Investment Assets increasing by 14%.",
+  "semantic_class": "Wealth Management / Asset Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "C",
+  "quarter": "2025 Q3",
+  "statement": "USPB had record quarterly revenue of $5.3 billion, reaching twelve straight quarters of positive operating leverage, and delivered an RoTCE of over 14%.",
+  "semantic_class": "US Personal Banking / Revenue & Returns",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q1",
+  "statement": "AUM reached a record $10.5 trillion, up $1.4 trillion or 15% year over year.",
+  "semantic_class": "AUM & Scale / Asset Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q1",
+  "statement": "We generated $76 billion of long-term net inflows this quarter.",
+  "semantic_class": "Net Inflows / Long-Term Flows",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q1",
+  "statement": "Excluding low-fee institutional index redemptions, long-term inflows were $100 billion.",
+  "semantic_class": "Net Inflows / Mix & Quality",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q1",
+  "statement": "Revenue increased 11% year over year, with EPS up 24%.",
+  "semantic_class": "Financial Performance / Revenue & EPS Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q1",
+  "statement": "Operating margin expanded 180 basis points.",
+  "semantic_class": "Operating Margin / Efficiency Improvement",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q1",
+  "statement": "ETF net inflows reached $67 billion, led by core equity and fixed income.",
+  "semantic_class": "ETF Business / Flows & Product Demand",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q2",
+  "statement": "AUM reached a new record of $10.6 trillion, with accelerating growth momentum across the platform.",
+  "semantic_class": "AUM & Scale / Asset Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q2",
+  "statement": "We generated $82 billion of net inflows — or nearly $150 billion excluding episodic institutional activity.",
+  "semantic_class": "Net Inflows / Mix & Quality",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q2",
+  "statement": "This quarter delivered 3% annualized organic base fee growth — the strongest second quarter in three years.",
+  "semantic_class": "Fee Revenue / Organic Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q2",
+  "statement": "Operating margin expanded to 44.1%, up 160 basis points year over year.",
+  "semantic_class": "Operating Margin / Efficiency Improvement",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q2",
+  "statement": "Revenue grew 8%, operating income grew 12%, and EPS increased 12% year over year.",
+  "semantic_class": "Financial Performance / Revenue & EPS Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q2",
+  "statement": "BlackRock led the global ETF industry again, with $83 billion of net inflows this quarter.",
+  "semantic_class": "ETF Business / Flows & Market Position",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q3",
+  "statement": "We generated $221 billion of net inflows, our highest quarter ever, and delivered record quarterly revenue and operating income.",
+  "semantic_class": "Net Inflows & Record Financial Performance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q3",
+  "statement": "Organic growth surged — with 5% annualized organic base fee growth, the highest rate in three years.",
+  "semantic_class": "Fee Revenue / Organic Growth Momentum",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q3",
+  "statement": "iShares continues to lead the global ETF industry with approximately $250 billion of inflows year-to-date, and historically over 40% of flows occur in Q4.",
+  "semantic_class": "ETF Business / Market Leadership & Seasonality",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q3",
+  "statement": "Fixed-income ETFs now exceed $1 trillion in AUM — nearly 40% higher than year-end 2021.",
+  "semantic_class": "Fixed-Income ETFs / Structural Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q3",
+  "statement": "Private markets are becoming central in portfolios — and our acquisition of GIP triples infrastructure AUM and doubles private markets fee revenue.",
+  "semantic_class": "Private Markets & Infrastructure / Strategic Expansion",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q3",
+  "statement": "The Microsoft–MGX partnership is an early proof point of the growth opportunities in infrastructure supporting AI compute and energy needs.",
+  "semantic_class": "Partnerships & AI Infrastructure Opportunity",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q4",
+  "statement": "2024 was a milestone year... BlackRock generated a record 641 billion of net inflows.",
+  "semantic_class": "Net Inflows / Full-Year Performance",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q4",
+  "statement": "We delivered double-digit growth in revenue, operating income and EPS, with margin expanding 280 basis points.",
+  "semantic_class": "Financial Performance / Revenue, Earnings & Margin",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q4",
+  "statement": "We enter 2025 from a position of strength, with 7% annualized organic base fee growth — our highest in three years.",
+  "semantic_class": "Fee Revenue / Organic Growth Momentum",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q4",
+  "statement": "ETF net inflows reached $390 billion for the year — including the most successful Bitcoin ETF launch in history.",
+  "semantic_class": "ETF Business / Flows & New Asset Classes",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q4",
+  "statement": "Fixed-income inflows totaled $164 billion in 2024 as clients shift from cash to longer-duration yield.",
+  "semantic_class": "Fixed-Income Flows / Asset Allocation Shift",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2024 Q4",
+  "statement": "Our acquisition of GIP and planned addition of HPS will make private markets and alternatives over 20% of revenue.",
+  "semantic_class": "Private Markets & Alternatives / Strategic Expansion",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2025 Q2",
+  "statement": "We posted 6% organic base fee growth — our fourth consecutive quarter above 5%.",
+  "semantic_class": "Fee Revenue / Organic Growth Momentum",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2025 Q2",
+  "statement": "AUM reached a record $12.5 trillion.",
+  "semantic_class": "AUM & Scale / Asset Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2025 Q2",
+  "statement": "We generated over $650 billion of net inflows in the last 12 months.",
+  "semantic_class": "Net Inflows / Full-Year Flows",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2025 Q2",
+  "statement": "GIP V closed above its $25 billion target — the largest infrastructure fundraise in the history of both BlackRock and GIP.",
+  "semantic_class": "Private Markets / Infrastructure Fundraising",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2025 Q2",
+  "statement": "We closed the acquisition of HPS on July 1, marking a major milestone toward our ambition of 30% revenue contribution from private markets and technology by 2030.",
+  "semantic_class": "Strategic Expansion / Private Markets & Technology",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "BLK",
+  "quarter": "2025 Q2",
+  "statement": "Technology services revenue grew 26%, with ACV up 32% including Preqin.",
+  "semantic_class": "Technology Services / Recurring Revenue Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q1",
+  "statement": "Walmart reported revenue growth of over 8% year-over-year, adding more than $11 billion in sales this quarter.",
+  "semantic_class": "Financial Performance / Revenue Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q1",
+  "statement": "Walmart U.S. comp sales grew 7.4%, with strong transaction growth and higher store traffic.",
+  "semantic_class": "U.S. Segment Performance / Comp Sales",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q1",
+  "statement": "E-commerce grew 26–27% driven by pickup, delivery, and marketplace expansion.",
+  "semantic_class": "E-commerce & Digital / Online Sales Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q1",
+  "statement": "International sales grew 13% year-over-year, with strong performance in Mexico, China, and Flipkart.",
+  "semantic_class": "International Segment Performance",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q1",
+  "statement": "Sam’s Club membership income grew 6.3% and reached an all-time high.",
+  "semantic_class": "Membership & Subscription Income",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q1",
+  "statement": "Operating income increased 17%, growing faster than revenue.",
+  "semantic_class": "Operating Income / Profitability Leverage",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q2",
+  "statement": "We had another strong quarter. We're gaining share across markets and formats, growing units sold, and operating income growth is outpacing sales.",
+  "semantic_class": "Financial Performance / Market Share & Profit Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q2",
+  "statement": "Walmart U.S. comp sales were 6.4%, Sam's Club 5.5%, and International sales up 11% led by Walmex and China.",
+  "semantic_class": "Segment Performance / U.S. & International",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q2",
+  "statement": "E-commerce sales were up 24%, driven by store-fulfilled pickup and delivery and advertising.",
+  "semantic_class": "E-commerce & Digital / Online Sales Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q2",
+  "statement": "We continue to see more upper-income households shopping at Walmart.",
+  "semantic_class": "Customer Mix / Demographic Shift",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q2",
+  "statement": "Marketplace sellers increased more than 50%, and advertising revenue grew approximately 35%.",
+  "semantic_class": "Marketplace & Advertising / High-Margin Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q2",
+  "statement": "Private brand sales in grocery were up more than 9%, with increasing penetration.",
+  "semantic_class": "Private Label / Grocery Performance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q3",
+  "statement": "We delivered solid results again this quarter, gaining market share, improving unit volume, and continuing to grow operating income faster than sales.",
+  "semantic_class": "Financial Performance / Market Share & Profit Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q3",
+  "statement": "Walmart U.S. comps were 4.4%, Sam's Club grew 4.6%, and International delivered double-digit growth, led by China and Mexico.",
+  "semantic_class": "Segment Performance / U.S. & International",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q3",
+  "statement": "E-commerce grew 24% in the U.S., with marketplace, pickup & delivery, and advertising driving engagement.",
+  "semantic_class": "E-commerce & Digital / Online Sales Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q3",
+  "statement": "We continue to see strong growth from higher-income households shopping with us.",
+  "semantic_class": "Customer Mix / Higher-Income Penetration",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q3",
+  "statement": "Sellers on Marketplace increased more than 20%, and the use of Walmart Fulfillment Services increased more than 50%.",
+  "semantic_class": "Marketplace & Fulfillment / Ecosystem Expansion",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q3",
+  "statement": "Global advertising revenue grew more than 20% year-over-year.",
+  "semantic_class": "Advertising Revenue / High-Margin Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q4",
+  "statement": "We delivered a strong quarter, with 4.9% sales growth and 10.9% adjusted operating profit growth.",
+  "semantic_class": "Financial Performance / Sales & Profit Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q4",
+  "statement": "We surpassed $100 billion in global e-commerce revenue for the first time.",
+  "semantic_class": "E-commerce & Digital / Revenue Milestone",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q4",
+  "statement": "Customer transaction and unit volumes increased, with share gains in the U.S. and internationally.",
+  "semantic_class": "Customer Traffic & Market Share Gains",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q4",
+  "statement": "Inventory levels improved and were down versus last year, supporting margin gains.",
+  "semantic_class": "Inventory Management / Margin Support",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q4",
+  "statement": "Private brand penetration increased as customers seek more value.",
+  "semantic_class": "Private Brand / Consumer Value Shift",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2024 Q4",
+  "statement": "General merchandise pricing is now in a deflationary position, though the decline softened in Q4.",
+  "semantic_class": "Pricing Environment / Deflation & Value",
+  "tone": "Neutral",
+  "label": "DOWN"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q1",
+  "statement": "Sales grew 5.7% and adjusted operating profit increased 12.9%, with all segments performing well.",
+  "semantic_class": "Financial Performance / Sales & Profit Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q1",
+  "statement": "Advertising and membership revenue grew 24%, and newer businesses continue reshaping our profit profile.",
+  "semantic_class": "Business Mix Shift / High-Margin Growth Drivers",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q1",
+  "statement": "We are seeing broad-based growth across income groups, with upper-income households driving the largest share gains.",
+  "semantic_class": "Customer Mix / Higher-Income Penetration",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q1",
+  "statement": "U.S. inflation was only about 40 basis points this quarter — including mid-single-digit deflation in general merchandise.",
+  "semantic_class": "Pricing & Inflation Environment",
+  "tone": "Neutral",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q1",
+  "statement": "Inventory was down 2.7% globally, helping reduce markdowns and improve margins.",
+  "semantic_class": "Inventory Management / Margin Improvement",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q1",
+  "statement": "We expect sales and profit to continue growing this year, with profit growing faster than sales.",
+  "semantic_class": "Forward Guidance / Profit Outpacing Sales",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q2",
+  "statement": "We had another good quarter with strong sales growth and even stronger profit growth, exceeding our expectations.",
+  "semantic_class": "Financial Performance / Sales & Profit Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q2",
+  "statement": "The strength was broad-based across markets, with meaningful contributions from international, e-commerce, marketplace, and membership.",
+  "semantic_class": "Growth Drivers / Diversified Contributions",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q2",
+  "statement": "We continue gaining market share in general merchandise, and transaction counts and unit volume are up.",
+  "semantic_class": "Market Share & Demand / Transactions & Volume",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q2",
+  "statement": "E-commerce sales grew 21%, with delivery growing faster than pickup, and pickup faster than in-store.",
+  "semantic_class": "E-commerce & Digital / Online Sales & Fulfillment Mix",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q2",
+  "statement": "Marketplace sales grew 32%, and advertising from marketplace sellers was up nearly 50%.",
+  "semantic_class": "Marketplace & Advertising / High-Margin Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q2",
+  "statement": "Membership revenue grew 23%; Walmart+ is up double digits and Sam’s Club reached record member count.",
+  "semantic_class": "Membership & Subscription / Revenue & Member Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q3",
+  "statement": "For the quarter, sales grew 6.1% in constant currency, and profit was up 9.8%.",
+  "semantic_class": "Financial Performance / Sales & Profit Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q3",
+  "statement": "E-commerce was up 27%, advertising grew 28%, and membership income was up 22%.",
+  "semantic_class": "Growth Drivers / E-commerce, Advertising & Membership",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q3",
+  "statement": "We continue to gain market share in the U.S., both in grocery and general merchandise. Households earning more than $100,000 made up 75% of our share gains.",
+  "semantic_class": "Market Share & Customer Mix / Higher-Income Penetration",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q3",
+  "statement": "In-store volumes grew, curbside pickup grew faster, and delivery grew even faster than that. Becoming more convenient is helping drive growth.",
+  "semantic_class": "Omnichannel Strategy / Convenience & Fulfillment Mix",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q3",
+  "statement": "Our data sets are valuable, and we’re putting them to work — improving experience for customers and assisting associates.",
+  "semantic_class": "Technology & AI / Operations & Customer Experience",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q3",
+  "statement": "Membership income grew double digits again, and Sam’s Club membership rose over 15%.",
+  "semantic_class": "Membership & Recurring Revenue / Member Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q4",
+  "statement": "For the quarter, we had sales growth of 5.2%, and adjusted operating income was up 9.4% in constant currency.",
+  "semantic_class": "Financial Performance / Sales & Profit Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q4",
+  "statement": "We continue to gain market share across countries and income levels.",
+  "semantic_class": "Market Share & Customer Base Expansion",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q4",
+  "statement": "Customers are shopping with us more often and buying more items, including in general merchandise categories.",
+  "semantic_class": "Customer Behavior / Transaction & Volume Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q4",
+  "statement": "We’re growing profit faster than sales, with runway to scale higher-margin businesses like membership, marketplace, and advertising.",
+  "semantic_class": "Business Mix Shift / High-Margin Growth Drivers",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q4",
+  "statement": "E-commerce economics continue to improve, most notably in the U.S.",
+  "semantic_class": "E-commerce & Digital / Profitability Improvement",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "WMT",
+  "quarter": "2025 Q4",
+  "statement": "Global advertising grew 27% to $4.4 billion, and marketplace revenue grew 37%.",
+  "semantic_class": "Advertising & Marketplace / High-Margin Revenue Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q1",
+  "statement": "Q1 net income was $1.589B ($3.58 per share), up from $1.364B ($3.07) last year — a 16.5% increase.",
+  "semantic_class": "Financial Performance / Net Income & EPS Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q1",
+  "statement": "Net sales were $56.72 billion, up 6.1% year-over-year.",
+  "semantic_class": "Financial Performance / Revenue Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q1",
+  "statement": "Comparable sales rose 3.8% globally and 2% in the U.S., with 4.7% global traffic growth.",
+  "semantic_class": "Comparable Sales & Traffic / Demand Drivers",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q1",
+  "statement": "Membership fee income grew 8.2% to $1.082 billion, with U.S. and Canada renewal rates at 92.8% and global renewal at 90.5%.",
+  "semantic_class": "Membership Model / Fee Income & Renewal Rates",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q1",
+  "statement": "Paid members reached 72 million (+7.6%), with Executive Members now 46% of membership and 73% of sales.",
+  "semantic_class": "Membership Base / Executive Member Mix",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q1",
+  "statement": "Gross margin expanded 43 basis points, driven by gas, e-commerce, and improved mix.",
+  "semantic_class": "Gross Margin / Mix & Efficiency",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q2",
+  "statement": "Q2 net income was $1.743B ($3.92 per share), up 18.9% year-over-year — or 12.5% excluding the special dividend tax benefit.",
+  "semantic_class": "Financial Performance / Net Income & EPS Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q2",
+  "statement": "Net sales were $57.33 billion, up 5.7% year-over-year.",
+  "semantic_class": "Financial Performance / Revenue Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q2",
+  "statement": "Comparable sales increased 5.6% (5.8% ex gas and FX), with U.S. up 4.3%, Canada up 9.2%, and International up 8.6%.",
+  "semantic_class": "Comparable Sales / Regional Performance",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q2",
+  "statement": "E-commerce grew 18.4% (18.2% ex FX), driven by appliances, gold and silver sales, and record Costco Logistics deliveries.",
+  "semantic_class": "E-commerce & Logistics / Online Sales Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q2",
+  "statement": "Membership fee income grew 8.2% to $1.11 billion, with renewal rates of 92.9% in the U.S. and Canada and 90.5% globally.",
+  "semantic_class": "Membership Model / Fee Income & Renewal Rates",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q2",
+  "statement": "Paid members reached 73.4 million, up 7.8% year-over-year, with Executive Members now 46% of paid members and 73% of sales.",
+  "semantic_class": "Membership Base / Executive Member Mix",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q3",
+  "statement": "Q3 net income was $1.68 billion or $3.78 per diluted share, up 29% year over year, and up 10.3% excluding last year's charter shipping charge.",
+  "semantic_class": "Financial Performance / Net Income & EPS Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q3",
+  "statement": "Net sales increased 9.1% to $57.39 billion, with total company comparable sales up 6.6% and e-commerce up 20.7%.",
+  "semantic_class": "Financial Performance / Revenue & E-commerce Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q3",
+  "statement": "Traffic increased 6.1% worldwide and 5.5% in the U.S., while average ticket grew modestly.",
+  "semantic_class": "Traffic & Demand / Volume-Driven Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q3",
+  "statement": "Membership fee income grew 7.6% to $1.123 billion, with renewal rates at 93% in the U.S. and Canada and 90.5% globally.",
+  "semantic_class": "Membership Model / Fee Income & Renewal Rates",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q3",
+  "statement": "Executive members now represent over 46% of paid members and 73% of worldwide sales.",
+  "semantic_class": "Membership Base / Executive Member Mix",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q3",
+  "statement": "Gross margin expanded 52 basis points year over year, driven by core-on-core improvement, e-commerce, and lower freight costs.",
+  "semantic_class": "Gross Margin / Mix & Efficiency Improvement",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q4",
+  "statement": "We continue to execute on our strategy of delivering the highest quality products at the lowest possible price for our members.",
+  "semantic_class": "Strategic Positioning / Value Proposition",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q4",
+  "statement": "We promoted 95 new warehouse managers this year, and 85% began at Costco as hourly employees.",
+  "semantic_class": "Culture & Talent / Internal Promotion",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q4",
+  "statement": "We opened 30 new warehouses during fiscal 2024 and expect 26 net new openings next year, with nearly half outside the U.S.",
+  "semantic_class": "Expansion Strategy / International Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q4",
+  "statement": "E-commerce and Costco Logistics delivered over 4.5 million big-and-bulky items, up 29% year over year.",
+  "semantic_class": "E-commerce & Logistics / Volume Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q4",
+  "statement": "Net income for the quarter was $2.354 billion or $5.29 per diluted share, up 9% year-over-year.",
+  "semantic_class": "Financial Performance / Net Income & EPS Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2024 Q4",
+  "statement": "Comparable sales increased 5.4%, or 6.9% excluding gas deflation and FX impacts.",
+  "semantic_class": "Comparable Sales / Underlying Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q1",
+  "statement": "We opened seven new warehouses in the quarter, with four outside the U.S., and continue to expect 26 net new buildings this fiscal year.",
+  "semantic_class": "Expansion Strategy / International Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q1",
+  "statement": "Our Pleasanton California warehouse opening achieved the highest U.S. opening day sales ever — at $2.9 million.",
+  "semantic_class": "Demand Signal / New Warehouse Performance",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q1",
+  "statement": "Costco Logistics completed nearly 1 million big-and-bulky deliveries in Q1, with a majority completed within four days.",
+  "semantic_class": "E-commerce & Logistics / Delivery Scale & Efficiency",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q1",
+  "statement": "Q1 net income was $1.798 billion or $4.04 per share, up 9.8% ex-tax items.",
+  "semantic_class": "Financial Performance / Net Income & EPS Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q1",
+  "statement": "Total comparable sales were up 5.2%, or 7.1% excluding gas deflation and FX.",
+  "semantic_class": "Comparable Sales / Underlying Demand",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q1",
+  "statement": "E-commerce comparable sales increased 13%.",
+  "semantic_class": "E-commerce & Digital / Online Sales Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q2",
+  "statement": "Net sales reached $62.53 billion, up 9.1% year over year.",
+  "semantic_class": "Financial Performance / Revenue Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q2",
+  "statement": "Comparable sales grew 6.8%, or 9.1% excluding gas price deflation and foreign exchange.",
+  "semantic_class": "Comparable Sales / Underlying Demand",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q2",
+  "statement": "E-commerce comparable sales were up 20.9%, or 22.2% adjusted for FX.",
+  "semantic_class": "E-commerce & Digital / Online Sales Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q2",
+  "statement": "Traffic increased 5.7% worldwide and 5.6% in the U.S., with average ticket up 2.6% in the U.S.",
+  "semantic_class": "Traffic & Ticket / Volume-Driven Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q2",
+  "statement": "Membership fee income was $1.193 billion, up 7.4%, with U.S. and Canada renewal rates holding at 93%.",
+  "semantic_class": "Membership Model / Fee Income & Renewal Rates",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q2",
+  "statement": "Executive members now represent 47.1% of total membership and 73.8% of worldwide sales.",
+  "semantic_class": "Membership Base / Executive Member Mix",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q3",
+  "statement": "Net sales were $61.96 billion, an increase of 8% from last year.",
+  "semantic_class": "Financial Performance / Revenue Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q3",
+  "statement": "Net income was $1.9 billion or $4.28 per share, up more than 13% year over year.",
+  "semantic_class": "Financial Performance / Net Income & EPS Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q3",
+  "statement": "Total company comparable sales were up 5.7%, or 8% adjusted for gas deflation and FX.",
+  "semantic_class": "Comparable Sales / Underlying Demand",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q3",
+  "statement": "E-commerce comp sales were up 14.8%, or 15.7% adjusted for FX.",
+  "semantic_class": "E-commerce & Digital / Online Sales Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q3",
+  "statement": "Traffic increased 5.2% worldwide and 5.5% in the U.S.",
+  "semantic_class": "Traffic & Volume / Customer Visits",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q3",
+  "statement": "Membership fee income was $1.24 billion, up 10.4% year over year.",
+  "semantic_class": "Membership Model / Fee Income Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q4",
+  "statement": "Q4 net income reached $2.61B, with EPS up 11% year over year (14% growth excluding one-time items).",
+  "semantic_class": "Financial Performance / Net Income & EPS Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q4",
+  "statement": "Q4 revenue increased to $84.43B, up 8% year over year.",
+  "semantic_class": "Financial Performance / Revenue Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q4",
+  "statement": "Comparable sales (ex-gas and FX) grew 6.4%, and e-commerce sales increased 13.5%.",
+  "semantic_class": "Comparable Sales & E-commerce / Underlying Demand",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q4",
+  "statement": "Membership fee income reached $1.72B, up 14% year over year.",
+  "semantic_class": "Membership Model / Fee Income Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q4",
+  "statement": "Total paid members reached 81M, and total cardholders rose to 145M.",
+  "semantic_class": "Membership Base / Member & Cardholder Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "COST",
+  "quarter": "2025 Q4",
+  "statement": "Executive Members reached 38.7M, representing 74.2% of worldwide sales.",
+  "semantic_class": "Membership Base / Executive Member Mix",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q1",
+  "statement": "We grew volume and expanded comparable margins while navigating significant currency volatility.",
+  "semantic_class": "Volume & Margin Performance / FX Headwinds",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q1",
+  "statement": "Comparable EPS grew 7% despite a 9% currency headwind.",
+  "semantic_class": "EPS Growth / FX Impact",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q1",
+  "statement": "Organic revenue grew 11%, driven by 13% price/mix and 1% unit case growth.",
+  "semantic_class": "Organic Revenue Growth / Price-Mix & Volume",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q1",
+  "statement": "We gained value share in both at-home and away-from-home channels.",
+  "semantic_class": "Market Share / Channel Performance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q1",
+  "statement": "North America posted sequential improvement through the quarter, with elasticities remaining favorable.",
+  "semantic_class": "Regional Performance / North America Demand",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q1",
+  "statement": "Asia Pacific momentum continued across Japan, Korea, Philippines, and Thailand, while China recovery remains gradual.",
+  "semantic_class": "Regional Performance / Asia Pacific & China",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q2",
+  "statement": "Our all-weather strategy is working, enabling us to deliver growth across very different market environments.",
+  "semantic_class": "Strategic Positioning / All-Weather Strategy",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q2",
+  "statement": "We grew volume, delivered strong organic revenue growth, and expanded margins while continuing to invest.",
+  "semantic_class": "Financial & Operational Performance / Growth with Investment",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q2",
+  "statement": "North America posted strong revenue and earnings growth, though volume softness reflected pressure in away-from-home channels.",
+  "semantic_class": "Regional Performance / North America Mixed Channel Dynamics",
+  "tone": "Neutral",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q2",
+  "statement": "Fairlife and Trademark Coke were the top two growth leaders in U.S. retail during the quarter.",
+  "semantic_class": "Product & Brand Performance / Core Growth Drivers",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q2",
+  "statement": "We are piloting AI-based pricing and pack architecture tools to tailor offerings and accelerate decisions.",
+  "semantic_class": "Technology & AI / Pricing & Product Optimization",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q2",
+  "statement": "We now expect organic revenue growth of 9–10% and currency-neutral EPS growth of 13–15% for FY2024.",
+  "semantic_class": "Forward Guidance / Upward Outlook",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q3",
+  "statement": "After a good first half of 2024, we navigated a dynamic environment and our business again proved resilient.",
+  "semantic_class": "Strategic Tone / Resilience in Dynamic Environment",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q3",
+  "statement": "Volume declined 1% in the quarter due to a slow July, but trends improved each month and trademark Coca-Cola outperformed.",
+  "semantic_class": "Volume Trends / Brand Outperformance",
+  "tone": "Neutral",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q3",
+  "statement": "We expect to deliver at the high end of our top-line guidance and 5–6% earnings growth despite approximately 9% FX headwinds.",
+  "semantic_class": "Forward Guidance / Earnings & FX Headwinds",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q3",
+  "statement": "We delivered robust organic revenue growth with value share gains in both at-home and away-from-home channels.",
+  "semantic_class": "Organic Revenue Growth / Market Share Gains",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q3",
+  "statement": "Comparable margins expanded and EPS grew 5% despite bottler refranchising and currency pressure.",
+  "semantic_class": "Margins & EPS / Profitability Under Pressure",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q3",
+  "statement": "North America delivered robust top-line growth with volume gains in Coca-Cola trademark and sparkling flavors.",
+  "semantic_class": "Regional Performance / North America Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q4",
+  "statement": "We are pleased with our 2024 results, which include volume growth, robust organic revenue growth, and margin expansion — leading to 7% comparable EPS growth despite nearly double-digit currency headwinds.",
+  "semantic_class": "Financial Performance / Volume, Revenue & Margin Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q4",
+  "statement": "These results reflect the continuation of delivering on our long-term commitments.",
+  "semantic_class": "Strategic Consistency / Long-Term Commitments",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q4",
+  "statement": "Given strong momentum, we're confident we can deliver on our 2025 guidance and longer-term objectives.",
+  "semantic_class": "Forward Guidance / Management Confidence",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q4",
+  "statement": "We won overall share and saw broad-based gains across global beverage categories.",
+  "semantic_class": "Market Share / Category-Wide Gains",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q4",
+  "statement": "Consumer demand remained strong, and the industry continues to show steady growth globally.",
+  "semantic_class": "Demand Environment / Industry Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2024 Q4",
+  "statement": "Refillable offerings, affordability initiatives, and local execution drove volume gains across many emerging markets.",
+  "semantic_class": "Growth Drivers / Affordability & Emerging Markets",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q1",
+  "statement": "We delivered 2% volume growth and organic revenue growth at the high end of our long-term growth algorithm.",
+  "semantic_class": "Financial Performance / Volume & Organic Revenue Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q1",
+  "statement": "Comparable gross margin increased approximately 30 basis points and comparable operating margin increased approximately 130 basis points.",
+  "semantic_class": "Margins & Profitability / Gross & Operating Margin Expansion",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q1",
+  "statement": "We continue to expect organic revenue growth of 5% to 6%.",
+  "semantic_class": "Forward Guidance / Organic Revenue Outlook",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q1",
+  "statement": "In Asia Pacific, we delivered volume, organic revenue and comparable currency neutral operating income growth.",
+  "semantic_class": "Regional Performance / Asia Pacific Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q1",
+  "statement": "We’re also excited about the global return of our iconic Share a Coke campaign.",
+  "semantic_class": "Marketing & Brand / Share a Coke Campaign",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q1",
+  "statement": "In the US, Coca-Cola Orange Cream is off to a good start with approximately $50 million in retail sales during the quarter.",
+  "semantic_class": "Product Performance / New Flavor Launch",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q2",
+  "statement": "We’re on track to deliver on both our top-line and updated bottom-line guidance despite a dynamic external environment.",
+  "semantic_class": "Forward Guidance / Execution vs. Macro Volatility",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q2",
+  "statement": "Volume declined 1% as we cycled a tough prior year and faced adverse weather and pockets of consumer pressure—but sequential improvement in the U.S. and Europe validates our actions.",
+  "semantic_class": "Volume Trends / External Headwinds & Sequential Improvement",
+  "tone": "Neutral",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q2",
+  "statement": "We delivered 5% organic revenue growth and robust margin expansion, leading to 4% EPS growth despite currency and tax headwinds.",
+  "semantic_class": "Financial Performance / Organic Revenue, Margins & EPS",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q2",
+  "statement": "This marks our seventeenth consecutive quarter of value share gains.",
+  "semantic_class": "Market Share / Sustained Share Gains",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q2",
+  "statement": "Our granular action plans—focused advertising, affordability initiatives, and tighter customer partnerships—are working.",
+  "semantic_class": "Execution & Strategy / Advertising, Affordability & Partnerships",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q2",
+  "statement": "Several bright spots include Coca-Cola Zero Sugar, Diet Coke, Fanta, Fairlife, BodyArmor, and Powerade, each growing volume.",
+  "semantic_class": "Brand Portfolio / Multi-Brand Volume Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q3",
+  "statement": "With one quarter remaining in 2025, we're on track to deliver on our reiterated top line and bottom line guidance.",
+  "semantic_class": "Forward Guidance / On-Track to Targets",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q3",
+  "statement": "Organic revenue growth continued to be at the high end of our long-term growth model, and this led to 6% comparable EPS growth, despite 6% currency headwinds.",
+  "semantic_class": "Financial Performance / Organic Growth & EPS",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q3",
+  "statement": "For the 18th consecutive quarter, we gained overall value share.",
+  "semantic_class": "Market Share / Consecutive Value Share Gains",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q3",
+  "statement": "We have unparalleled portfolio power, as demonstrated by our 30 billion-dollar brands.",
+  "semantic_class": "Brand Portfolio Strength / Billion-Dollar Brands",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q3",
+  "statement": "We ran a Halloween campaign for Fanta that was activated in approximately 50 markets.",
+  "semantic_class": "Marketing & Campaigns / Global Activation",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "KO",
+  "quarter": "2025 Q3",
+  "statement": "During the first three quarters of this year, innovation contributed strongly to revenue growth.",
+  "semantic_class": "Innovation & New Products / Revenue Contribution",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q1",
+  "statement": "Worldwide sales were $21.4 billion, growing 3.9%, with 7.8% growth in the U.S.",
+  "semantic_class": "Financial Performance / Worldwide & U.S. Sales Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q1",
+  "statement": "Excluding the COVID-19 vaccine, worldwide operational sales grew 7.6%.",
+  "semantic_class": "Core Business Performance / Ex-COVID Operational Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q1",
+  "statement": "Adjusted diluted EPS was $2.71, up 12.4% year-over-year.",
+  "semantic_class": "Earnings Performance / Adjusted EPS Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q1",
+  "statement": "Innovative Medicine delivered 8.3% operational sales growth excluding COVID impact, driven by key brands and new launches.",
+  "semantic_class": "Business Segment Performance / Innovative Medicine Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q1",
+  "statement": "Nine assets delivered double-digit growth, including Darzalex, Tremfya, and Spravato.",
+  "semantic_class": "Product Portfolio / Key Brands Double-Digit Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q1",
+  "statement": "Cell and gene therapy assets such as Carvykti and Tecvayli showed strong demand, supported by expanded manufacturing capacity.",
+  "semantic_class": "Pipeline & Innovation / Cell & Gene Therapy Demand",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q2",
+  "statement": "Worldwide sales were $22.4 billion, up 6.6%, with U.S. growth of 7.8%.",
+  "semantic_class": "Financial Performance / Worldwide & U.S. Sales Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q2",
+  "statement": "Excluding COVID-19 vaccine impact, operational sales grew 7.2%.",
+  "semantic_class": "Core Business Performance / Ex-COVID Operational Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q2",
+  "statement": "Adjusted EPS was $2.82, up 10.2% year-over-year.",
+  "semantic_class": "Earnings Performance / Adjusted EPS Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q2",
+  "statement": "Innovative Medicine delivered $14.5 billion in sales, up 7.8%, with 10 assets posting double-digit growth.",
+  "semantic_class": "Business Segment Performance / Innovative Medicine Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q2",
+  "statement": "DARZALEX revenue grew 21.3%, and CARVYKTI 59.9%, with TECVAYLI up 43.5%.",
+  "semantic_class": "Product Portfolio / Oncology & Cell Therapy Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q2",
+  "statement": "TREMFYA grew 30.7%, driven by strong uptake in immunology.",
+  "semantic_class": "Product Performance / Immunology Franchise Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q3",
+  "statement": "We delivered strong results in the third quarter with 6.3% operational sales growth.",
+  "semantic_class": "Financial Performance / Operational Sales Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q3",
+  "statement": "Innovative Medicine reported a second consecutive quarter exceeding $14 billion with 11 key brands growing double digits.",
+  "semantic_class": "Business Segment Performance / Innovative Medicine Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q3",
+  "statement": "Darzalex became the first product in our portfolio to reach $3 billion in a single quarter.",
+  "semantic_class": "Product Performance / Flagship Oncology Brand",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q3",
+  "statement": "We received FDA approval of Rybrevant plus Lazcluze for first-line EGFR-mutated lung cancer and Tremfya for ulcerative colitis.",
+  "semantic_class": "Regulatory Milestones / New Indication Approvals",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q3",
+  "statement": "We have increased adjusted operational EPS guidance pre-M&A for the third quarter in a row.",
+  "semantic_class": "Forward Guidance / EPS Outlook Upward Revision",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q3",
+  "statement": "We have invested $18 billion in high-innovation, high-growth M&A this year.",
+  "semantic_class": "Capital Allocation / High-Growth M&A Investment",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q4",
+  "statement": "2024 was a year of progress and transformation for Johnson & Johnson.",
+  "semantic_class": "Strategic Narrative / Progress & Transformation",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q4",
+  "statement": "We delivered robust operational sales growth of 7%, excluding the COVID-19 vaccine.",
+  "semantic_class": "Financial Performance / Operational Sales Growth ex-COVID",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q4",
+  "statement": "We now operate in high unmet need, high-growth, and high-innovation segments.",
+  "semantic_class": "Strategic Positioning / High-Unmet-Need Segments",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q4",
+  "statement": "We invested nearly $50 billion in R&D and M&A last year.",
+  "semantic_class": "Capital Allocation / R&D and M&A Investment",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q4",
+  "statement": "Spravato surpassed $1 billion in annual sales, marking our 26th platform above $1 billion.",
+  "semantic_class": "Product Performance / Billion-Dollar Franchise",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2024 Q4",
+  "statement": "In innovative medicine, we reported a third consecutive quarter exceeding $14 billion.",
+  "semantic_class": "Business Segment Performance / Innovative Medicine Scale",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q1",
+  "statement": "Worldwide sales were $21.9 billion for the quarter. Sales increased 4.2% despite an approximate 470 basis point headwind from STELARA.",
+  "semantic_class": "Financial Performance / Worldwide Sales & Headwinds",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q1",
+  "statement": "For the quarter, net earnings were $11 billion, and diluted earnings per share was $4.54, versus diluted earnings per share of $1.34 a year ago, primarily driven by the reversal of $7 billion related to the Talc settlement proposal.",
+  "semantic_class": "Earnings Performance / Net Income, EPS & One-Time Items",
+  "tone": "Neutral",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q1",
+  "statement": "We recognize the value investors place on our dividend, and we were pleased to announce today that our Board of Directors authorized a 4.8% increase, marking our 63rd consecutive year of dividend increases.",
+  "semantic_class": "Capital Return / Dividend Policy & Increases",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q1",
+  "statement": "Worldwide sales of $13.9 billion increased 4.2%, despite an approximate 810 basis point headwind from STELARA.",
+  "semantic_class": "Business Segment Performance / Innovative Medicine Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q1",
+  "statement": "DARZALEX growth was 22.5%, primarily driven by continued share gains of approximately 3 points across all lines of therapy and approximately 5 points in the frontline setting as well as market growth.",
+  "semantic_class": "Product Performance / DARZALEX Growth & Share Gains",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q1",
+  "statement": "CARVYKTI achieved sales of $369 million and growth of over 100%, driven by share gains and capacity expansion.",
+  "semantic_class": "Product Performance / CARVYKTI Sales & Capacity Expansion",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q2",
+  "statement": "We delivered 4.6% operational sales growth in the second quarter, demonstrating the strength of our diversified business across Innovative Medicine and MedTech.",
+  "semantic_class": "Financial Performance / Diversified Operational Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q2",
+  "statement": "Innovative Medicine reported 3.8% operational growth and exceeded $15 billion in quarterly revenue for the first time — despite the STELARRA loss of exclusivity.",
+  "semantic_class": "Business Segment Performance / Innovative Medicine Growth Through LOE",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q2",
+  "statement": "No other healthcare company has grown through the loss of exclusivity of a multibillion-dollar product in the first year — and we are doing it for the second quarter in a row.",
+  "semantic_class": "Competitive Positioning / Resilience Through Loss of Exclusivity",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q2",
+  "statement": "Thirteen brands delivered double-digit growth, led by DARZALEX, CARVYKTI, TECVAYLI, TALVEY, RYBREVANT, PLUVICTO, and SPRAVATO.",
+  "semantic_class": "Product Portfolio / Multiple High-Growth Brands",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q2",
+  "statement": "MedTech grew 6.1% operationally, with cardiovascular, surgery, and vision driving the strongest momentum.",
+  "semantic_class": "Business Segment Performance / MedTech Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q2",
+  "statement": "Cardiovascular delivered more than 22% operational growth, driven by Abiomed, Shockwave, and electrophysiology systems.",
+  "semantic_class": "Product Category Performance / Cardiovascular Devices",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q3",
+  "statement": "In the third quarter, we delivered operational sales growth of 5.4% across our business.",
+  "semantic_class": "Financial Performance / Operational Sales Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q3",
+  "statement": "First, Oncology, where Q3 operational sales grew nearly 20%.",
+  "semantic_class": "Business Segment Performance / Oncology Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q3",
+  "statement": "We have treatments in every line of therapy, and DARZALEX is the gold standard with more than 50% market share across all lines of therapy. Q3 operational sales of DARZALEX grew by 20%.",
+  "semantic_class": "Product Performance / DARZALEX Market Share & Growth",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q3",
+  "statement": "We have now treated more than 8,500 patients globally, and with operational sales growing by more than 80% this quarter, we are increasingly confident in CARVYKTI's $5 billion peak year sales potential.",
+  "semantic_class": "Product Performance / CARVYKTI Growth & Peak Sales Potential",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q3",
+  "statement": "Based on this quarter's performance, it looks like it could be both bigger and better, having delivered operational sales growth of 40%, driven by new indications in inflammatory bowel disease.",
+  "semantic_class": "Product Performance / TREMFYA Growth & New Indications",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "JNJ",
+  "quarter": "2025 Q3",
+  "statement": "In MedTech, operational sales growth was even stronger, accelerating to 5.6%, and we have announced the planned separation of our Orthopaedics business, which accelerates the shift of our MedTech portfolio to areas of greatest unmet need and higher growth, including Cardiovascular and Robotic Surgery.",
+  "semantic_class": "Business Segment Performance / MedTech Growth & Portfolio Focus",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q1",
+  "statement": "Revenue grew 26% in Q1 with strong momentum from Mounjaro and Zepbound as incretin-based therapies continue driving growth.",
+  "semantic_class": "Financial Performance / Revenue Growth & Incretin Demand",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q1",
+  "statement": "Mounjaro reached $1.8 billion in global sales and Zepbound exceeded $500 million in its first full quarter on the market.",
+  "semantic_class": "Product Performance / Obesity & Diabetes Portfolio",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q1",
+  "statement": "Demand for incretin medicines continues to significantly outpace supply despite ongoing expansion efforts.",
+  "semantic_class": "Demand & Capacity / Incretin Supply–Demand Imbalance",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q1",
+  "statement": "We are increasing full-year revenue guidance by $2 billion due to sustained demand and expanded manufacturing confidence.",
+  "semantic_class": "Forward Guidance / Upward Revenue Revision",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q1",
+  "statement": "Gross margin increased to 82.5%, driven by favorable pricing and mix, particularly obesity and diabetes products.",
+  "semantic_class": "Profitability / Gross Margin Expansion & Mix",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q1",
+  "statement": "We expect salable doses of incretin medicines in the second half of 2024 to be at least 1.5x the second half of 2023.",
+  "semantic_class": "Capacity & Supply / Incretin Production Ramp-Up",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q2",
+  "statement": "Revenue grew 36% year-over-year in Q2, driven primarily by strong demand for Mounjaro, Zepbound, and Verzenio.",
+  "semantic_class": "Financial Performance / Revenue Growth & Key Products",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q2",
+  "statement": "Mounjaro and Zepbound exceeded expectations as supply improved and access expanded, particularly in the U.S.",
+  "semantic_class": "Product Performance / Incretin Demand & Access Expansion",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q2",
+  "statement": "We are raising full-year revenue guidance by $3 billion, reflecting confidence in continued momentum and stronger production capacity.",
+  "semantic_class": "Forward Guidance / Upward Revenue Revision",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q2",
+  "statement": "New products contributed nearly $3.5 billion in incremental sales compared to last year.",
+  "semantic_class": "Product Portfolio / New Product Sales Contribution",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q2",
+  "statement": "We achieved several major pipeline milestones — including FDA approval of Kisunla for Alzheimer’s disease and positive tirzepatide Phase 3 outcome in heart failure and sleep apnea.",
+  "semantic_class": "Pipeline & Regulatory / Key Milestones & Approvals",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q2",
+  "statement": "Tirzepatide continued to demonstrate benefits beyond weight loss, showing meaningful improvement in sleep apnea symptoms and cardiovascular outcomes.",
+  "semantic_class": "Clinical Outcomes / Tirzepatide Beyond Weight Loss",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q3",
+  "statement": "Revenue grew 42% excluding the divested olanzapine portfolio, driven by strong uptake of Mounjaro and Zepbound, with new products contributing more than $3 billion in growth.",
+  "semantic_class": "Financial Performance / Revenue Growth & New Product Contribution",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q3",
+  "statement": "U.S. sequential prescription volume for Mounjaro and Zepbound increased 25% in Q3, reflecting expanding demand as access and supply improve.",
+  "semantic_class": "Demand & Prescriptions / Incretin Volume Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q3",
+  "statement": "All dose strengths are now available for order through wholesalers and LillyDirect programs, positioning us to scale demand generation activities.",
+  "semantic_class": "Supply & Access / Dose Availability & Channel Readiness",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q3",
+  "statement": "We remain on track to exceed our goal of producing at least 1.5× more incretin saleable doses in the second half of 2024 versus the second half of 2023.",
+  "semantic_class": "Capacity & Manufacturing / Incretin Production Ramp-Up",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q3",
+  "statement": "Manufacturing expansion continues to be a top priority — with more than $20 billion committed since 2020 and an additional $4.5 billion investment in the new Lilly Medicine Foundry.",
+  "semantic_class": "Capital Investment / Manufacturing Expansion & Infrastructure",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q3",
+  "statement": "Worldwide growth outside the U.S. accelerated, with strong uptake in Europe, Japan and emerging markets as launches expand.",
+  "semantic_class": "Geographic Expansion / International Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q4",
+  "statement": "Full-year revenue grew 32% and exceeded our initial guide by $4 billion, with Q4 revenue up 45% driven by accelerating uptake of Mounjaro and Zepbound.",
+  "semantic_class": "Financial Performance / Revenue Growth & Incretin Uptake",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q4",
+  "statement": "New products contributed more than $3.1 billion in Q4, while our non-incretin business grew 20% year-over-year.",
+  "semantic_class": "Product Portfolio / New Products & Non-Incretin Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q4",
+  "statement": "We eliminated wholesaler backorders and strengthened supply capacity, producing 1.5× more incretin doses versus the second half of 2023.",
+  "semantic_class": "Supply Chain & Capacity / Backorder Resolution & Dose Expansion",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q4",
+  "statement": "Gross margin reached 83.2% in Q4 driven by favorable product mix, and operating income more than doubled to $5.6 billion.",
+  "semantic_class": "Profitability / Gross Margin & Operating Leverage",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q4",
+  "statement": "We are investing aggressively — eight new Phase 3 programs started in 2024, and we advanced manufacturing commitments to over $23 billion since 2020.",
+  "semantic_class": "Pipeline & Capital Allocation / Phase 3 Expansion & Manufacturing Investment",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2024 Q4",
+  "statement": "Zepbound became the U.S. market leader in anti-obesity based on new prescriptions, with commercial access exceeding 87% and Medicaid access expanding.",
+  "semantic_class": "Market Leadership / Zepbound Access & Share",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2025 Q3",
+  "statement": "Q3 revenue grew 54% year-over-year, driven by accelerating uptake of our key incretin medicines globally.",
+  "semantic_class": "Financial Performance / Revenue Growth & Incretin Uptake",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2025 Q3",
+  "statement": "Lilly medicines now account for nearly six out of ten U.S. prescriptions in the incretin class—our fifth consecutive quarter of share gains.",
+  "semantic_class": "Market Share / U.S. Incretin Class Leadership",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2025 Q3",
+  "statement": "Outside the U.S., Mounjaro performance accelerated with strong adoption despite limited reimbursement, with approximately 75% of obesity use paid out-of-pocket.",
+  "semantic_class": "Geographic Expansion / International Demand & Willingness to Pay",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2025 Q3",
+  "statement": "Based on strong performance, we are raising both revenue and EPS guidance for full-year 2025.",
+  "semantic_class": "Forward Guidance / Upward Revenue & EPS Revision",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2025 Q3",
+  "statement": "Gross margin reached 83.6%, improving 140 basis points year-over-year, driven by product mix and scale efficiencies.",
+  "semantic_class": "Profitability / Gross Margin Expansion & Scale",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "LLY",
+  "quarter": "2025 Q3",
+  "statement": "R&D spending increased 27% as we advanced 16 new Phase 3 programs since the start of 2024.",
+  "semantic_class": "R&D & Pipeline Investment / Phase 3 Expansion",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q1",
+  "statement": "Q1 2024 was a solid quarter with healthy procedure growth, improving supply conditions, and strong demand for our next-generation platforms.",
+  "semantic_class": "Business Overview / Quarterly Performance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q1",
+  "statement": "da Vinci procedures grew 16% year-over-year, led by strong U.S. general surgery and continued adoption beyond urology in international markets.",
+  "semantic_class": "Procedure Growth / Utilization Expansion",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q1",
+  "statement": "We placed 313 da Vinci systems globally this quarter, reflecting solid capital demand despite regional variability.",
+  "semantic_class": "Capital Equipment / System Placements",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q1",
+  "statement": "Early rollout of the new da Vinci 5 has begun, with meaningful surgeon enthusiasm and reported improvements in precision, imaging, workflow efficiency, and ergonomics.",
+  "semantic_class": "Product Innovation / da Vinci 5 Launch",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q1",
+  "statement": "Supply constraints remain during the measured rollout of da Vinci 5 and will continue into 2025.",
+  "semantic_class": "Supply Chain & Rollout / Capacity Constraints",
+  "tone": "Neutral",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q1",
+  "statement": "Ion platform procedures increased 90% year-over-year, with continued strong adoption and improvements in catheter supply.",
+  "semantic_class": "Platform Growth / Ion Procedure Expansion",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q2",
+  "statement": "Fundamentals of our business were healthy with solid procedure growth and strong capital placements in Q2.",
+  "semantic_class": "Business Overview / Quarterly Fundamentals",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q2",
+  "statement": "Procedures grew nearly 17% year-over-year, driven by cholecystectomy, colon resection, lung resection, and foregut procedures.",
+  "semantic_class": "Procedure Growth / Multispecialty Expansion",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q2",
+  "statement": "We placed 341 systems this quarter, including 70 da Vinci 5 systems, marking strong early adoption momentum.",
+  "semantic_class": "Capital Equipment / System Placements & da Vinci 5 Adoption",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q2",
+  "statement": "Customer feedback on da Vinci 5 highlights improved precision, imaging, ergonomics, workflow, and integration.",
+  "semantic_class": "Product Innovation / da Vinci 5 User Feedback",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q2",
+  "statement": "Measured rollout of da Vinci 5 will continue through the first half of 2025 due to supply constraints and planned hardware and software updates.",
+  "semantic_class": "Supply Chain & Rollout / da Vinci 5 Constraints",
+  "tone": "Neutral",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q2",
+  "statement": "Ion procedures increased 82% and system placements continue ramping as we stabilize catheter and vision probe supply.",
+  "semantic_class": "Platform Growth / Ion Procedure & System Expansion",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q3",
+  "statement": "Q3 was a solid quarter with healthy procedure growth, strong capital placements, and operational execution in a dynamic global environment.",
+  "semantic_class": "Business Overview / Quarterly Performance",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q3",
+  "statement": "We now have over 9,300 da Vinci multiport systems installed globally with a five-year compound CAGR of 17%.",
+  "semantic_class": "Installed Base / Multiport System Expansion",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q3",
+  "statement": "Da Vinci 5 launched in March and already has 188 systems installed with more than 12,000 procedures completed.",
+  "semantic_class": "Product Innovation / da Vinci 5 Installed Base & Usage",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q3",
+  "statement": "Customer feedback emphasizes clear improvements in imaging, ergonomics, workflow, and Force Feedback capabilities.",
+  "semantic_class": "Product Innovation / da Vinci 5 Differentiated Capabilities",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q3",
+  "statement": "Ion procedures grew 73%, and the system installed base has increased 50% year-over-year.",
+  "semantic_class": "Platform Growth / Ion Procedures & Installed Base",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q3",
+  "statement": "SP platform procedures grew 70%, with strongest momentum in Korea and early traction in Europe, Japan, and the U.S.",
+  "semantic_class": "Platform Growth / SP Platform International Adoption",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q4",
+  "statement": "2024 was a strong year for Intuitive with robust early adoption of da Vinci 5 and healthy global procedure growth of 17%.",
+  "semantic_class": "Business Overview / Yearly Performance & Procedure Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q4",
+  "statement": "Ion and SP platforms continued to scale with 78% and 72% procedure growth, supported by new global clearances and utilization momentum.",
+  "semantic_class": "Platform Growth / Ion & SP Scaling",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q4",
+  "statement": "We placed 1,432 multiport systems this year, including 362 da Vinci 5s as supply expanded and demand increased.",
+  "semantic_class": "Capital Equipment / Multiport & da Vinci 5 Placements",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q4",
+  "statement": "System utilization improved—multiport up 3%, SP up 12%, and Ion up 13%.",
+  "semantic_class": "Utilization & Efficiency / System Usage Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q4",
+  "statement": "84% of revenue was recurring, contributing to $8.4 billion total revenue and 29% net income growth.",
+  "semantic_class": "Revenue Model & Profitability / Recurring Revenue & Net Income",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2024 Q4",
+  "statement": "Force Feedback and computing upgrades in da Vinci 5 will continue rolling out beginning this year.",
+  "semantic_class": "Product Innovation / da Vinci 5 Upgrades & Advanced Capabilities",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2025 Q2",
+  "statement": "Our financial metrics were strong in the second quarter, with solid procedure growth and capital placements despite ongoing macro challenges in certain international markets.",
+  "semantic_class": "Business Overview / Quarterly Performance & Macro Backdrop",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2025 Q2",
+  "statement": "Da Vinci procedure growth in the quarter was 17%, led by benign general surgery in the U.S. and non-urology procedures internationally.",
+  "semantic_class": "Procedure Growth / Case Mix Diversification",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2025 Q2",
+  "statement": "We placed 395 da Vinci systems, including 180 da Vinci 5 systems, marking continued strong capital demand in the U.S.",
+  "semantic_class": "Capital Equipment / System Placements & da Vinci 5 Demand",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2025 Q2",
+  "statement": "System utilization grew 2% year-over-year for multiport platforms and accelerated to over 30% for SP and Ion.",
+  "semantic_class": "Utilization & Efficiency / Platform Usage Growth",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2025 Q2",
+  "statement": "Revenue growth of 21% reflects solid procedure performance, strong system mix, and higher purchase behavior versus leasing.",
+  "semantic_class": "Financial Performance / Revenue Growth & System Mix",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2025 Q2",
+  "statement": "More than 100,000 procedures have now been performed on da Vinci 5, with broad launch underway in the U.S. and measured launches in Europe and Japan.",
+  "semantic_class": "Product Adoption / da Vinci 5 Global Rollout",
+  "tone": "Positive",
+  "label": "DOWN"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2025 Q3",
+  "statement": "Q3 2025 was an excellent quarter for Intuitive Surgical, with strength in worldwide procedure growth and capital placements, as well as increasing utilization across all platforms.",
+  "semantic_class": "Business Overview / Global Procedure & Capital Strength",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2025 Q3",
+  "statement": "Worldwide da Vinci procedures grew 19% and Ion procedures increased 52%, leading to total worldwide procedure growth of 20%.",
+  "semantic_class": "Procedure Growth / Multi-Platform Volume Expansion",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2025 Q3",
+  "statement": "Da Vinci V adoption expanded globally, with strong U.S. upgrade demand and first placements in Japan and Europe.",
+  "semantic_class": "Product Adoption / da Vinci V Global Expansion",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2025 Q3",
+  "statement": "System utilization grew 4% for multiport, 35% for SP, and 14% for Ion — with da Vinci V already outpacing Xi only 18 months post-launch.",
+  "semantic_class": "Utilization & Efficiency / Platform Usage & Upgrade Benefits",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2025 Q3",
+  "statement": "We placed 427 da Vinci systems, including 240 da Vinci V systems and 30 SP systems, plus 50 Ion systems.",
+  "semantic_class": "Capital Equipment / System Placements & Upgrade Cycle",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+{
+  "company": "ISRG",
+  "quarter": "2025 Q3",
+  "statement": "Upgrades are proving effective to expand throughput and capabilities, including force sensing, autonomy, telepresence, and digital tools.",
+  "semantic_class": "Product Innovation / Upgrades & Advanced Capabilities",
+  "tone": "Positive",
+  "label": "UP"
+}
+
+

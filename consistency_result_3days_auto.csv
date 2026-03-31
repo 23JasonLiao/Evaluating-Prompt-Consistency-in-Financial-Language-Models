@@ -1,0 +1,21 @@
+Model,Variant,Consistency (%)
+EVENT,Negation,10.6
+HTML,Negation,11.5
+MRDM,Negation,24.8
+XGB,Negation,7.1
+GPT-4o (Trinity),Negation,0.9615384615384616
+EVENT,Symmetry,94.7
+HTML,Symmetry,89.4
+MRDM,Symmetry,65.5
+XGB,Symmetry,100.0
+GPT-4o (Trinity),Symmetry,97.97979797979798
+EVENT,Transitive,96.5
+HTML,Transitive,89.4
+MRDM,Transitive,82.3
+XGB,Transitive,67.3
+GPT-4o (Trinity),Transitive,99.11504424778761
+EVENT,Additive,90.3
+HTML,Additive,69.9
+MRDM,Additive,66.4
+XGB,Additive,52.2
+GPT-4o (Trinity),Additive,99.00990099009901
